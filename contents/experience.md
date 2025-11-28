@@ -1,21 +1,21 @@
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+**July 2024 – August 2024 | Whale Cloud**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Participated in the intelligent customer service project. Responsible for the development and optimization of the intent recognition system, focusing on algorithm improvement and system efficiency enhancement.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Data preprocessing. Split the data into training, test, and labeled vocabulary sets.
+- Model building and training. Construct an ALBERT+Seq2Seq+Attention model, defining placeholders, loading the model, encoder and decoder, optimizer, and loss function.
+- Model testing. Calculate the model's accuracy, recall, F1 score, and other metrics on the test set.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **AI算法及应用研发部实习生**  
+**2024年7月 – 2024年8月 | 浩鲸科技**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+参与智能客服项目。负责意图识别系统的开发与优化，专注于算法改进和系统效率提升。
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### 主要功能实现:  
+- 数据预处理。划分训练集、测试集和标签词汇集。
+- 构建模型并进行训练。构建ALBERT+Seq2Seq+Attention模型，定义占位符、加载模型、编码器和解码器、优化器、损失函数。
+- 测试模型。计算模型在测试集上的准确率、召回率、F1值等指标。
